@@ -20,9 +20,7 @@ Built with modern web tech and optimized for scalability and maintainability.
 
 ---
 
-## 💡 Features (Planned / To be built)
-
-*(You can update these based on what you implement)*  
+## 💡 Features
 - 🏠 Homepage with product listings
 - 📦 Product detail pages
 - 🛒 Shopping cart
